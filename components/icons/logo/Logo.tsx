@@ -23,7 +23,7 @@ const Logo = () => {
                     fontSize="28"
                     fontWeight="700"
                     fill="#0A2540">
-                    ElectroShop
+                    Electro Nuovo
                 </text>
             </svg>
 
